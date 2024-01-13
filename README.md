@@ -1,1 +1,1 @@
-# laravel_test
+# dynamic_folder_structure
